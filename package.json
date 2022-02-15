@@ -1,0 +1,20 @@
+{
+  "name": "introducao-ao-git",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isaias-s-souza/Introducao-ao-GIT.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/isaias-s-souza/Introducao-ao-GIT/issues"
+  },
+  "homepage": "https://github.com/isaias-s-souza/Introducao-ao-GIT#readme"
+}
